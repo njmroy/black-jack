@@ -1,0 +1,41 @@
+html{ 
+    margin: 0 auto;
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,121,31,1) 39%, rgba(0,212,255,1) 100%) no-repeat;
+    font-weight: bold;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
+
+p {
+    margin: 0;
+    padding: 2vh 2vh;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#message-element{
+    font-style: italic;
+}
+.button { 
+    color:white;
+    width: 10rem;
+    background: rgb(217, 172, 25);
+    border: none;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 1rem 0.5rem;
+    border-radius: 9px;
+
+}
+
+h1 {
+    color: goldenrod;
+}
+
